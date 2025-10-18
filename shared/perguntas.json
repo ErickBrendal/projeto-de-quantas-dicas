@@ -1,0 +1,109 @@
+{
+  "coisas": [
+    {
+      "resposta": "Geladeira",
+      "dicas": ["Eletrodoméstico", "Mantém alimentos frios", "Tem prateleiras", "Faz barulho ao ligar", "Você abre a porta para pegar comida"]
+    },
+    {
+      "resposta": "Cama",
+      "dicas": ["Móvel", "Você dorme nela", "Tem colchão", "Tem lençol", "Fica no quarto"]
+    },
+    {
+      "resposta": "Telefone",
+      "dicas": ["Eletrônico", "Você fala com alguém", "Tem tela", "Cabe na mão", "Recebe ligações"]
+    },
+    {
+      "resposta": "Livro",
+      "dicas": ["Tem páginas", "Você lê", "Tem capa", "Pode ser emprestado", "Tem histórias"]
+    },
+    {
+      "resposta": "Carro",
+      "dicas": ["Veículo", "Tem rodas", "Você dirige", "Tem motor", "Leva pessoas"]
+    }
+  ],
+  "ator_atriz": [
+    {
+      "resposta": "Tom Hanks",
+      "dicas": ["Ator americano", "Famoso", "Fez Forrest Gump", "Fez Toy Story", "Ganhou Oscars"]
+    },
+    {
+      "resposta": "Meryl Streep",
+      "dicas": ["Atriz americana", "Muito famosa", "Ganhou vários Oscars", "Fez O Diabo Veste Prada", "Tem cabelo louro"]
+    },
+    {
+      "resposta": "Brad Pitt",
+      "dicas": ["Ator americano", "Muito bonito", "Fez Fight Club", "Fez Troia", "Ganhou Oscar"]
+    }
+  ],
+  "serie_filme": [
+    {
+      "resposta": "Titanic",
+      "dicas": ["Filme", "Tem navio", "Navio afunda", "Tem amor", "Muito famoso"]
+    },
+    {
+      "resposta": "Avatar",
+      "dicas": ["Filme", "Tem aliens", "Planeta azul", "Muito caro", "Tem sequelas"]
+    },
+    {
+      "resposta": "Game of Thrones",
+      "dicas": ["Série", "Tem dragões", "Tem castelos", "Muitas mortes", "Muito popular"]
+    }
+  ],
+  "marvel": [
+    {
+      "resposta": "Iron Man",
+      "dicas": ["Super-herói", "Tem armadura", "Tem dinheiro", "Tem inteligência", "Tem arco no peito"]
+    },
+    {
+      "resposta": "Capitão América",
+      "dicas": ["Super-herói", "Tem escudo", "Tem força", "Tem história", "Tem soldado"]
+    },
+    {
+      "resposta": "Thor",
+      "dicas": ["Super-herói", "Tem martelo", "É deus", "Tem trovão", "Tem cabelo louro"]
+    }
+  ],
+  "dc": [
+    {
+      "resposta": "Batman",
+      "dicas": ["Super-herói", "Tem morcego", "Tem capa", "Tem máscara", "Tem dinheiro"]
+    },
+    {
+      "resposta": "Superman",
+      "dicas": ["Super-herói", "Tem capa", "Tem força", "Voa", "Tem S no peito"]
+    },
+    {
+      "resposta": "Mulher-Maravilha",
+      "dicas": ["Super-heroína", "Tem lasso", "Tem armadura", "Tem força", "Tem tiara"]
+    }
+  ],
+  "biblia": [
+    {
+      "resposta": "Jesus",
+      "dicas": ["Personagem", "Nasceu em Belém", "Tem apóstolos", "Morreu na cruz", "Ressuscitou"]
+    },
+    {
+      "resposta": "Moisés",
+      "dicas": ["Personagem", "Tem bastão", "Tirou povo do Egito", "Tem tábuas", "Tem barba"]
+    },
+    {
+      "resposta": "Noé",
+      "dicas": ["Personagem", "Construiu arca", "Tem animais", "Tem chuva", "Tem pomba"]
+    }
+  ],
+  "pais": [
+    {
+      "resposta": "Brasil",
+      "dicas": ["País", "Na América do Sul", "Tem futebol", "Tem Carnaval", "Tem Amazônia"]
+    },
+    {
+      "resposta": "Estados Unidos",
+      "dicas": ["País", "Na América do Norte", "Tem Nova York", "Tem Hollywood", "Tem Estátua"]
+    },
+    {
+      "resposta": "Japão",
+      "dicas": ["País", "Na Ásia", "Tem sushi", "Tem tecnologia", "Tem monte Fuji"]
+    }
+  ]
+}
+

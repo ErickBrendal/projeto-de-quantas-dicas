@@ -1,0 +1,29 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Estilos extras para o jogo */
+body {
+  font-family: 'Comic Sans MS', cursive; /* Toque divertido! */
+}
+.game-bg {
+  background: linear-gradient(45deg, #ff6b6b, #4ecdc4, #45b7d1);
+  min-height: 100vh;
+}
+
+.btn-primary {
+  @apply bg-purple-500 hover:bg-purple-600 px-8 py-4 rounded-lg text-xl font-semibold shadow-lg transition;
+}
+
+.btn-secondary {
+  @apply bg-blue-500 hover:bg-blue-600 px-6 py-3 rounded-lg text-lg font-semibold shadow-md transition;
+}
+
+.card {
+  @apply bg-white rounded-lg shadow-lg p-6;
+}
+
+.hint-box {
+  @apply bg-yellow-100 border-2 border-yellow-400 rounded-lg p-4 mb-4;
+}
+
